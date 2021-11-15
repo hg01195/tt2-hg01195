@@ -1,0 +1,4 @@
+SM#Bugs#Bunny#S913000#4.0#2000# 
+SM#Daffy#Duck#S913101#3.9# 
+SH#Mickey#Mouse#S924111#2.9#12#35 
+AM#Daisy#Duck#S923101#1.2#15#42 

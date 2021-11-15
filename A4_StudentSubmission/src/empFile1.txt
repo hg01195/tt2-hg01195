@@ -1,0 +1,9 @@
+SM#Bugs#Bunny#S913000#4.0#2000#  
+SM#Daffy#Duck#S913101#3.9#3000# 
+SH#Mickey#Mouse#S924111#2.9#12#35 
+SH#Daisy#Duck#S923101#1.2#15#42 
+MM#Dark#Knight#S913000#4.0#2000#  
+SM#Duck#S913101#3.9#3000# 
+JH#Top#Cat#S924111#2.9#12#35 
+SH#Yosimity#Sam#S923111#1.2#15
+SM#Atom#Ant#S913121#3.9#3000# 
